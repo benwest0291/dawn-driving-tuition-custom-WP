@@ -2,8 +2,8 @@
 </div><!-- end of container -->
 <footer>
   <div class="small__footer">
-    <p>Individual Driving Tuition. Refresher Driving Lessons. Intensive Driving Courses. Motorway Driving. Pass Plus.
-Driving Lessons in Kent: West Malling, Maidstone, Sevenoaks, Borough Green.</p>
+    <!-- <p>Individual Driving Tuition. Refresher Driving Lessons. Intensive Driving Courses. Motorway Driving. Pass Plus.
+Driving Lessons in Kent: West Malling, Maidstone, Sevenoaks, Borough Green.</p> -->
     <p>Dawn Driving Tuition © 2022 All Rights Reserved.</p>
     <p>Site by Ben West Web Design</p>
 
@@ -15,3 +15,4 @@ Driving Lessons in Kent: West Malling, Maidstone, Sevenoaks, Borough Green.</p>
 </footer>
 <!-- JavaScript Bundle with Popper -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+<!-- this is a test git  -->

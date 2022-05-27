@@ -24,7 +24,7 @@ function add_theme_scripts()
 
 // Load Styles
 
-    wp_enqueue_style('styles', get_stylesheet_directory_uri() . '/assets/src/app.css', array(), '9.5');
+    wp_enqueue_style('styles', get_stylesheet_directory_uri() . '/assets/src/app.css', array(), '9.6');
 
 
 
