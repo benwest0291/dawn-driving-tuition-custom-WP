@@ -2,15 +2,13 @@
 </div><!-- end of container -->
 <footer>
   <div class="small__footer">
-    <!-- <p>Individual Driving Tuition. Refresher Driving Lessons. Intensive Driving Courses. Motorway Driving. Pass Plus.
-Driving Lessons in Kent: West Malling, Maidstone, Sevenoaks, Borough Green.</p> -->
     <p>Dawn Driving Tuition © 2022 All Rights Reserved.</p>
     <p>Site by Ben West Web Design</p>
-
-  <div>
-    <!-- <img class="footer__logo" src="<?php echo get_template_directory_uri() . '/assets/images/driving-standards.png'; ?>">
-    <img class="footer__logo" src="<?php echo get_template_directory_uri() . '/assets/images/driving-standards.png'; ?>"> -->
-  </div>
+    <div>
+      <a href="#"><i class="fa-brands fa-xl fa-facebook-f" id="social__link"></i></a>
+      <a href="#"><i class="fa-brands fa-xl fa-instagram"id="social__link"></i></a>
+      <a href="#"><i class="fa-brands fa-xl fa-linkedin"id="social__link"></i></a>
+    </div>
   </div>
 </footer>
 <!-- JavaScript Bundle with Popper -->

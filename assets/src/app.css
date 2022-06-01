@@ -11,6 +11,23 @@
   height: 50px;
 }
 
+.fa-facebook-f {
+  margin: 40px;
+}
+
+#social__link {
+  margin: 15px;
+  color: #fff;
+}
+
+#social__link:hover {
+  color: #dc143c;
+}
+
+footer {
+  border-bottom: 8px solid #dc143c;
+}
+
 .nav__logo {
   width: 250px;
   margin-left: 25px;
@@ -62,4 +79,8 @@ span:hover {
 
 html {
   margin: 0 !important;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
 }
